@@ -1,0 +1,56 @@
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+h2 {
+  width: 469px;
+  background-color: antiquewhite;
+  font-size: 40px;
+  border: 2px solid black;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+#canned {
+  /* margin-left: 80px; */
+  padding-left: 10px;
+  width: 200px;
+  border: 1px dashed black;
+  background-color: rgb(202, 202, 202);
+}
+
+#dried {
+  padding-left: 10px;
+  width: 200px;
+  border: 1px dashed black;
+  background-color: rgb(202, 202, 202);
+}
+
+#veggies {
+  padding-left: 10px;
+  width: 200px;
+  border: 1px dashed black;
+  background-color: rgb(202, 202, 202);
+}
+
+#snacks {
+  padding-left: 10px;
+  width: 200px;
+  border: 1px dashed black;
+  background-color: rgb(202, 202, 202);
+}
+
+.list-container {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  gap: 3rem;
+}
+
+.resize {
+  width: 300px;
+  height: auto;
+}
